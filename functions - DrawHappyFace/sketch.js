@@ -26,7 +26,7 @@ function draw() {
 }
 
 function drawHappyFace(){
-   background(131, 175, 155);
+		background(131, 175, 155);
    
    translate(300, 100);
 
